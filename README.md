@@ -15,7 +15,7 @@ You will:
 ## Branch Summaries
 
 - `main`: Original story starter
-- `hero-path`: _[Describe your changes here]_
+- `hero-path`: _You heroically find a glowing sword, fight and defeat a dragon, and discover a treasure chest._
 - `villain-path`: _[Describe your changes here]_
 
 ## Final Checklist
