@@ -10,6 +10,14 @@ def intro():
 
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    print("You pick up the sword, feeling its magical power surge through you.")
+def center_path():
+    print("You take the left path and encounter a fierce dragon!")
+    print("You bravely fight the dragon and emerge victorious!")
+    print("After defeating the dragon, you find a chest full of gold!")
+
+
+
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
