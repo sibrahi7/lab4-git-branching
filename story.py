@@ -9,11 +9,25 @@ def intro():
         print("You stand still, unsure what to do. The forest swallows you.")
 
 def left_path():
+<<<<<<< HEAD
     print("You walk left and find a mysterious glowing sword stuck in a 
 stone.")
     print("You pick up the sword, feeling its magical power surge through 
 you.")
  
+=======
+    print("You walk left and find a mysterious glowing sword stuck in a stone.")
+    print("You pick up the sword, feeling its magical power surge through you.")
+    print("You take the left path and encounter a fierce dragon!")
+    print("You bravely fight the dragon and emerge victorious!")
+def center_path():
+    print("You take the left path and encounter a fierce dragon!")
+    print("You bravely fight the dragon and emerge victorious!")
+    print("After defeating the dragon, you find a chest full of gold!")
+
+
+
+>>>>>>> main
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
