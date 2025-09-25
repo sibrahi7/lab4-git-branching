@@ -23,6 +23,8 @@ def center_path():
 
 def right_path():
     print("You walk right and encounter a talking squirrel who challenges you to a duel.")
+    print("You walk right and encounter a talking squirrel whose glowing red eyes reveal the duel is a trap to steal your soul ")
+    print("You embrace the darkness and start spreading chaos through the forest!")
 
 if __name__ == "__main__":
     intro()
