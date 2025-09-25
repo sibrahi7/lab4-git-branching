@@ -16,7 +16,7 @@ You will:
 
 - `main`: Original story starter
 - `hero-path`: _[Describe your changes here]_
-- `villain-path`: _[Describe your changes here]_
+- `villain-path`: _On the right path, you are corrupted by a dark power during a duel and embrace the darkness, spreading chaos through the forest._
 
 ## Final Checklist
 
