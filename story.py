@@ -11,6 +11,8 @@ def intro():
 def left_path():
     print("You walk left and find a mysterious glowing sword stuck in a stone.")
     print("You pick up the sword, feeling its magical power surge through you.")
+    print("You take the left path and encounter a fierce dragon!")
+    print("You bravely fight the dragon and emerge victorious!")
 def center_path():
     print("You take the left path and encounter a fierce dragon!")
     print("You bravely fight the dragon and emerge victorious!")
